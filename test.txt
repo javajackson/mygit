@@ -1,0 +1,7 @@
+hello world
+hello java
+hello hello
+aaa
+bbb
+ccc
+ddd
